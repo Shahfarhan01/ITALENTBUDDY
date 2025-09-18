@@ -1,1 +1,1 @@
-# ITALENTBUDDY
+# iTalentBuddy
